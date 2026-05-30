@@ -1,0 +1,7 @@
+Plan
+
+user enters amount of players (min 2)
+each player will roll 2 times
+each roll is 1-6
+every double is an extra roll (ex roll 1: 3, roll 2: 3 *double* roll 3: 4)
+create a leaderboard with all players
